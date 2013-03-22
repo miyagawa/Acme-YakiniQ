@@ -1,0 +1,42 @@
+{
+   "abstract" : "Demonstration from M::I + ShipIt to Minilla/Mothra",
+   "author" : [
+      "Tatsuhiko Miyagawa <miyagawa@bulknews.net>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Minilla/0.0.44",
+   "license" : "perl_5",
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Acme-YakiniQ",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59",
+            "Test::More" : "0.88",
+            "Test::Requires" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59",
+            "Module::Build::Tiny" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "release_status" : "unstable",
+   "resources" : {
+      "homepage" : "git://github.com/miyagawa/Acme-YakiniQ/tree",
+      "repository" : {
+         "url" : "git://github.com/miyagawa/Acme-YakiniQ.git"
+      }
+   },
+   "version" : "0.01"
+}

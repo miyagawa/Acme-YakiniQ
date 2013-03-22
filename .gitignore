@@ -4,3 +4,9 @@ Makefile
 inc/
 pm_to_blib
 *~
+.build
+_build_params
+/Build
+!Build/
+!META.json
+Acme-YakiniQ-*.tar.gz
