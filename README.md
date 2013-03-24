@@ -1,6 +1,6 @@
 # NAME
 
-Acme::YakiniQ - Demonstration from M::I + ShipIt to Minilla/Mothra
+Acme::YakiniQ - Demonstration from M::I + ShipIt to Minilla/Milla
 
 # SYNOPSIS
 
