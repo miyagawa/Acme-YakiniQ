@@ -13,7 +13,7 @@ __END__
 
 =head1 NAME
 
-Acme::YakiniQ - Demonstration from M::I + ShipIt to Minilla/Mothra
+Acme::YakiniQ - Demonstration from M::I + ShipIt to Minilla/Milla
 
 =head1 SYNOPSIS
 
