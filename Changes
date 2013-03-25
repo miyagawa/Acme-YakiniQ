@@ -1,6 +1,7 @@
 Revision history for Perl extension Acme::YakiniQ
 
 {{$NEXT}}
+0.03 2013-03-25T22:07:07Z
         - minilla test
 
 0.01      2013-03-22 16:25:39 America/Los_Angeles
