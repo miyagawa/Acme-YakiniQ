@@ -4,7 +4,7 @@
       "Tatsuhiko Miyagawa <miyagawa@bulknews.net>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.0.48, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Minilla/v0.0.49, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
